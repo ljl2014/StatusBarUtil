@@ -8,6 +8,8 @@ A util for setting status bar style on Android App. It can work above API 19(Kit
 
 [中文版点我](http://laobie.github.io/android/2016/03/27/statusbar-util.html)
 
+> 如果你能看懂这段的话，那么提 issue 请用英文，中文 issue 今后均不回复
+
 ![](img/status_bar_util.png)
 
 ### Sample
